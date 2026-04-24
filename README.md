@@ -1,5 +1,19 @@
-# Macroeconomic-Indicator-Explorer
-Macroeconomic Comparison Tool
+# Macroeconomic Indicator Explorer
+
+A interactive web application that allows users to compare key macroeconomic indicators across 20 major economies from 2000 to 2024.
+
+## 📊 Live Demo
+
+[Click here to try the live app](https://macroeconomic-indicator-explorer-g9zsvxymtljpunwx9uesqv.streamlit.app/)
+
+## 🎯 Problem & Target User
+
+**Problem:** Economics students and global economy enthusiasts need a simple, interactive way to compare macroeconomic indicators across different countries without manually searching through spreadsheets or statistical yearbooks.
+
+**Target User:** Economics students, self-learners, and anyone interested in global economic trends.
+
+## 📈 Features
+
 - **Interactive Charts:** Line charts with hover details
 - **Multi-country Comparison:** Select any combination of 20 major economies
 - **5 Key Indicators:** GDP Growth, Inflation, Unemployment Rate, Trade Openness, Government Debt
